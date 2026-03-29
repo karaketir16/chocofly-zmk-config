@@ -15,3 +15,4 @@
 include:
   - board: nice_nano@2.0.0
     shield: chocofly
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
